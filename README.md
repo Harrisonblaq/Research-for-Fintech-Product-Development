@@ -1,6 +1,13 @@
 # Research-for-Fintech-Product-Development ( PEDMONIE )
 
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Limitations](#limitations)
+- [Recommendation](#recommendation)
 
 
 ### Project Overview
