@@ -13,6 +13,11 @@
 ### Project Overview
 This report outlines the process and insights derived from Competitor and Market Research for fintech Product Development. The purpose of this project is to assist a fintech startup, Pedmonie in developing a new solution aimed at simplifying digital payment acceptance. The product consolidates multiple payment models like mobile money, bank transfers, and card payment into a unified system, offering businesses a streamlined way to manage transactions, reduce complexity and improve success rates. Since the product is in its early development stage, our task as Data Analyst is to conduct thorough market research, analyze competitors, and provide insights to support product refinement and differentiation.
 
+![WhatsApp Image 2025-02-17 at 16 00 04](https://github.com/user-attachments/assets/e6717638-9bae-4536-9c3e-885ac5603bc6)
+![WhatsApp Image 2025-02-17 at 16 00 05](https://github.com/user-attachments/assets/8996a928-3b5d-4d80-aa75-98711b1aa2a9)
+![WhatsApp Image 2025-02-17 at 16 00 06](https://github.com/user-attachments/assets/e9a4d36e-e53b-46d9-96b2-621eb2c42451)
+
+
 ### Data Source 
 Data was collected from reputable industry sources, including:
 - Bulletin, Stripe, BCG, KPMG, and other fintech research platforms.
